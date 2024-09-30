@@ -1,0 +1,63 @@
+
+
+/* css-3 */
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  /* width: 80%;
+  align-items: center;
+  justify-content: center; */
+}
+
+/* Styles for LayoutGrid1 component */
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+}
+
+.event-name {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.large-photo-container {
+  margin-bottom: 20px;
+}
+
+.large-photo {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.thumbnail-grid {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.thumbnail-item {
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  overflow: hidden;
+  transition: border-color 0.3s;
+}
+
+.thumbnail-item.active {
+  border-color: #00aaff; /* Highlight the selected thumbnail */
+}
+
+.thumbnail-img {
+  width: 100px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 5px;
+}

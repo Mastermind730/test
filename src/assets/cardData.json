@@ -1,0 +1,225 @@
+[
+    {
+      "image": "https://i.postimg.cc/26QF8fMK/president23-24.png",
+      "name": "Prathamesh Bachhav",
+      "role": "President (2023-24)",
+      "linkedin": "https://www.linkedin.com/in/prathamesh-bachhav-282b11229/",
+      "description": "The ACM President of CESA leads initiatives to enhance technical skills, fosters innovation, and connects students with industry opportunities, ensuring a vibrant, collaborative, and forward-thinking community."
+    },
+    {
+      "image": "/images/images/3.png",
+      "name": "Mahima Nair",
+      "role": "Vice President (2023-24)",
+      "linkedin": "https://www.linkedin.com/in/mahima-nair-8995b823b/",
+      "description": "The ACM Vice President of CESA supports the President, drives key initiatives, and ensures smooth operations, fostering a collaborative environment that empowers students to excel in technology and leadership."
+    },
+    {
+      "image": "/images/images/4.png",
+      "name": "Prajwal Lonari",
+      "role": "Management Executive (2023-24)",
+      "linkedin": "https://www.linkedin.com/in/prajwal-lonari-55932222a/",
+      "description": "The ACM Management Executive of CESA oversees event coordination, manages logistics, and ensures seamless execution, contributing to the success of initiatives that empower students and enhance their learning experience."
+    },
+
+
+    {
+        "image": "/images/images/AditiSambare.jpg",
+        "name": "Aditi Sambare",
+        "role": "President (2022-23)",
+        "linkedin": "https://www.linkedin.com/in/alicejohnson",
+        "description": "Alice is a passionate software engineer with experience in building scalable web applications."
+      },
+      {
+        "image": "/images/images/sahil.png",
+        "name": "Sahil Shinde",
+        "role": "Vice President (2022-23)",
+        "linkedin": "https://www.linkedin.com/in/bobsmith",
+        "description": "Bob specializes in product management and has successfully led multiple projects from conception to launch."
+      },
+      {
+        "image": "/images/images/OmBidve.jpg",
+        "name": "Om Bidve",
+        "role": "Vice President (2022-23)",
+        "linkedin": "https://www.linkedin.com/in/caroldavis",
+        "description": "Carol focuses on user experience design, creating intuitive and engaging interfaces for various applications."
+      },
+
+
+
+
+      {
+        "image": "/images/images/SaumyaPhadkar.png",
+        "name": "Saumya Phadkar",
+        "role": "President (2021-22)",
+        "linkedin": "https://www.linkedin.com/in/davidlee",
+        "description": "David is a data scientist with expertise in statistical analysis and machine learning."
+      },
+      {
+        "image": "/images/images/Soham Kulkarni.png",
+        "name": "Soham Kulkarni",
+        "role": "Vice President (2021-22)",
+        "linkedin": "https://www.linkedin.com/in/emilybrown",
+        "description": "Emily excels in digital marketing strategies and has a knack for creating compelling content."
+      },
+      {
+        "image": "/images/images/Mrunali_Padwal.png",
+        "name": "Mrunali Padwal",
+        "role": "Vice President (2021-22)",
+        "linkedin": "https://www.linkedin.com/in/frankwilson",
+        "description": "Frank ensures the smooth operation of IT systems and has a deep understanding of network security."
+      },
+
+
+
+      {
+        "image": "/images/images/Chinmay-Joshi.jpg",
+        "name": "Chinmay Joshi",
+        "role": "President (2020-21)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/images/Rakshit_Jha.jpg",
+        "name": "Rakshit Jha",
+        "role": "Vice President (2020-21)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+      {
+        "image": "/images/images/Anshu Srivastava.jpg",
+        "name": "Anshu Srivastava",
+        "role": "Vice President (2020-21)",
+        "linkedin": "https://www.linkedin.com/in/ivyanderson",
+        "description": "Ivy develops content strategies that align with business goals and engage target audiences effectively."
+      },
+
+
+
+      {
+        "image": "/images/images/VarunGadde.jpg",
+        "name": "Varun Gadde",
+        "role": "President (2019-20)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/images/SharvariGaikwad.jpg",
+        "name": "Sharvari Gaikwad",
+        "role": "Vice President (2019-20)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+
+
+      {
+        "image": "/images/images/jovian.jpg",
+        "name": "Jovian Anthony",
+        "role": "President (2018-19)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/images/shubham.jpeg",
+        "name": "Shubham Mandhare",
+        "role": "Vice President (2018-19)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+      
+      
+      {
+        "image": "/images/images/abhishek.jpg",
+        "name": "Abhishek Gaikwade",
+        "role": "President (2017-18)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/neha.jpg",
+        "name": "Neha Waghchaure",
+        "role": "Vice President (2017-18)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+
+      {
+        "image": "/images/abdul.jpg",
+        "name": "Abdul Wasay",
+        "role": "President (2016-17)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/ankur.jpg",
+        "name": "Ankur Jangra",
+        "role": "Vice President (2016-17)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+
+
+      {
+        "image": "/images/sanchita.jpg",
+        "name": "Sanchita Rao",
+        "role": "President (2015-16)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/vishal.jpg",
+        "name": "Vishal Maurya",
+        "role": "Vice President (2015-16)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+
+
+      {
+        "image": "/images/amrita.jpg",
+        "name": "Amrita Nair",
+        "role": "President (2014-15)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/nikita.jpg",
+        "name": "Nikita Merani",
+        "role": "Vice President (2014-15)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+
+
+
+      {
+        "image": "/images/gopi.jpg",
+        "name": "Gopi Kapagunta",
+        "role": "President (2013-14)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      },
+      {
+        "image": "/images/reena.jpg",
+        "name": "Reena Gandhi",
+        "role": "Vice President (2013-14)",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor",
+        "description": "Henry specializes in front-end development with a focus on creating responsive and interactive user interfaces."
+      },
+
+
+
+      {
+        "image": "/images/dipesh.jpg",
+        "name": "Dipesh Walte",
+        "role": "President (2012-13)",
+        "linkedin": "https://www.linkedin.com/in/gracemoore",
+        "description": "Grace has a strong background in sales and business development, consistently achieving high performance targets."
+      }
+  ]
+  

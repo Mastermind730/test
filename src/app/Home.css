@@ -1,0 +1,60 @@
+.ul,
+.ur,
+.l {
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  box-shadow: 35px 35px 68px 0px rgba(5, 96, 157, 0.5),
+    inset -2px -2px 16px 0px rgba(5, 96, 157, 0.6),
+    inset 0px 11px 28px 0px rgb(255, 255, 255);
+  width: 16rem;
+  height: 16rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #05609d;
+  font-weight: bold;
+}
+.advisors{
+  background: rgba(68, 111, 185, 0.25);
+  box-shadow: 35px 35px 68px 0px rgba(5, 96, 157, 0.5),
+  inset -2px -2px 16px 0px rgba(5, 96, 157, 0.6),
+  inset 0px 11px 28px 0px rgb(255, 255, 255);
+  backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+border-radius: 12px;
+width: 400px;
+height: 480px;
+}
+
+.rewards-section {
+  background-image: linear-gradient(60deg, #1c1c1e 0%, #2c5364 100%);
+}
+
+
+
+/* .back{
+  background-color:  #ebf8ff;
+  background-image: linear-gradient(60deg, #ffffff 0%, #0397ce 100%);
+  
+} */
+
+.cont {
+  background-color: rgba(20, 20, 30, 0.9); /* Darker, more cohesive background */
+  background: rgba(68, 111, 185, 0.1); /* Lighter overlay for depth */
+  box-shadow: 
+    0 15px 30px rgba(0, 0, 0, 0.6), /* Softer outer shadow for depth */
+    inset 0 6px 20px rgba(255, 255, 255, 0.15), /* Inset highlight for glow */
+    inset 0 -1px 15px rgba(0, 0, 0, 0.4); /* Soft inner shadow for depth */
+  backdrop-filter: blur(10px); /* Increased blur for a modern look */
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 12px; /* Unified border radius */
+  border: 1px solid rgba(255, 255, 255, 0.25); /* Slightly more pronounced border for definition */
+  height: 100%;
+  width: 88%;
+  padding: 30px; /* Adjusted padding for a more compact design */
+}
+

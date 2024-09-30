@@ -1,0 +1,145 @@
+.numbers {
+  display: flex;
+  justify-content: space-around;
+}
+
+.number {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.number .counter {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.9em;
+  margin: 6px 0;
+}
+
+.number span {
+  font-size: 1.2em;
+  display: block;
+}
+.main-timeline {
+  position: relative;
+}
+.main-timeline {
+  position: relative;
+  transition: all 0.4s ease 0s;
+}
+
+.main-timeline:before {
+  content: "";
+  width: 3px;
+  height: 100%;
+  background: #bfbfbf;
+  position: absolute;
+  top: 0;
+  left: 50%;
+}
+.main-timeline .timeline:before,
+.main-timeline .timeline:after {
+  content: "";
+  display: block;
+  width: 100%;
+  clear: both;
+}
+ 
+.timeline {
+  /* position: relative; */
+  width: 35%;
+  margin-bottom: 30px;
+  background: rgba(68, 111, 185, 0.25);
+  box-shadow: 35px 35px 68px 0px rgba(5, 96, 157, 0.5),
+  inset -2px -2px 16px 0px rgba(5, 96, 157, 0.6),
+  inset 0px 11px 28px 0px rgb(255, 255, 255);backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+border-radius: 12px;
+
+}
+ .timeline-content-left{
+  
+  float: left;
+  clear:both;
+  
+  
+}
+.timeline-content-right{
+  
+  float: right;
+  clear:both;
+
+
+} 
+
+
+.main-timeline .timeline-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid #0a90d7;
+  position: absolute;
+  top: 0;
+  left: 3px;
+  right: 0;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.main-timeline .timeline-content {
+  width: 45%;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: right;
+  background: #dfdfef;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease 0s;
+}
+.timeline .date {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 300;
+  color: #fff;
+  padding: 12px 33px;
+  margin: 8px;
+  background: #0a90d7;
+  border-radius: 30px;
+}
+
+.timeline .person  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+/* .person{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+} */
+.timeline .profile-img {
+  /* width: 150px;
+  height: 150px; */
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.timeline .profile-imgtag {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+  .timeline-content {
+    width: 90%;
+    margin: 0 auto;
+  }
+}

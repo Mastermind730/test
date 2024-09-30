@@ -1,0 +1,60 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #3697e2, #3953ba, #193f87);
+    box-sizing: border-box;
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+} */
+
+.main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+}
+
+
+
+.team-members{
+    /* flex: 1; */
+    /* background: linear-gradient(to right, #78d0e0, #dbd364); */
+    /* margin:10px 5% 2.7% 3%; */
+    height:400px;
+    width: 360px;
+    /* border: 2px solid rgba(255, 255, 255, 0.5); */
+    /* border-radius: 8px; */
+    background: rgba(68, 111, 185, 0.25);
+  box-shadow: 35px 35px 68px 0px rgba(5, 96, 157, 0.5),
+  inset -2px -2px 16px 0px rgba(5, 96, 157, 0.6),
+  inset 0px 11px 28px 0px rgb(255, 255, 255);
+  backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+border-radius: 12px;
+    
+}
+
+.members-pic {
+    object-fit: cover;
+    clip-path: circle(45% at center);
+    border-radius: 10px;
+    /* margin-left: 93px; */
+    margin-top: 15px;
+    width: 285px; /* Adjust the width and height based on your design */
+    height: 344px;
+}
+
+
+
+.githubclass{
+    cursor: pointer;
+    background:transparent;
+    padding: 50px 50px 10px 14%;
+    color:#ffffff !important ;
+}
