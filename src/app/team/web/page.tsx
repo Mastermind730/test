@@ -148,7 +148,7 @@ const Team: React.FC = () => {
       <TeamMember 
           name="Sourav Narvekar" 
           role="President & WebMaster" 
-          imgSrc="/teamPhotos/President.png" 
+          imgSrc="/teamPhotos/sourav.png" 
           link="https://www.linkedin.com/in/sourav-narvekar-a29778257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           git="https://github.com/Mastermind730" 
           insta="https://www.instagram.com/09_sourav?igsh=MXFmbzk2cDB1b3gz"
