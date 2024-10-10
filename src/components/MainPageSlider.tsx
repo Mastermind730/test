@@ -14,7 +14,7 @@ const Slider: React.FC = () => {
     <meta charSet="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Image Slider</title>
-  <link rel="stylesheet" href="style.css" />
+  {/* <link rel="stylesheet" href="style.css" /> */}
     </Head>
   <div className="slider">
   <div className="list">

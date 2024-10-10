@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  // output: 'export',
 
+const nextConfig = {
+  output: 'export',
+  // basePath: '/your-subdirectory', // Add if deploying to a subdirectory
   images: {
-    domains: ['i.postimg.cc', 'pcet.org.in', 'via.placeholder.com'], // Allowed domains for images
-    // unoptimized: true, // Disable built-in image optimization for cPanel hosting
+    domains: ['i.postimg.cc', 'pcet.org.in', 'via.placeholder.com'],
+    unoptimized: true,
   },
 };
 
